@@ -1,5 +1,5 @@
-### mruby/c
+### require / loadが無い
 
-<img src="resources/img/mruby_mrubyc.png" height=450px>
-
-<small>[ET2017資料： 開発言語mruby・mruby/cが開く新たなIoTプラットフォーム](https://www.slideshare.net/shimane-itoc/et2017-mrubymrubyciot#15)から引用</small>
+* 実行時にライブラリを追加して機能拡張する事は出来ない
+* mrubyでは、機能拡張をしたい場合、コンパイル時に指定する必要がある
+* 拡張ライブラリを組み込む為の仕組みとして、mrbgemsというのがある
