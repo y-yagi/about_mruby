@@ -1,6 +1,6 @@
 ### mrbgems
 
-```
+```ruby
 # build_config.rb
 
 conf.gem :core => 'mruby-eval'
