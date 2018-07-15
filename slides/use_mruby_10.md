@@ -1,4 +1,4 @@
-### [h2o](https://github.com/h2o/h2o)
+### [H2O](https://github.com/h2o/h2o)
 
 * apacheやnginxにもmrubyを使えるようにする為の拡張がある
   * [matsumotory/mod_mruby](https://github.com/matsumotory/mod_mruby)
