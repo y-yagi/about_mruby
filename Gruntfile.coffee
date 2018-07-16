@@ -58,6 +58,7 @@ module.exports = (grunt) ->
                     expand: true
                     src: [
                         'slides/**'
+                        'node_modules/**'
                         'js/**'
                         'css/**'
                         'resources/**'
