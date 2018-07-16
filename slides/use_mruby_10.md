@@ -3,4 +3,3 @@
 * apacheやnginxにもmrubyを使えるようにする為の拡張がある
   * https://github.com/matsumotory/mod_mruby
   * https://github.com/matsumotory/ngx_mruby
-  * ngx\_mrubyで動的コンテンツキャッシュを実現する \- ペパボテックブログ: https://tech.pepabo.com/2016/12/02/ngx_mruby_dynamic_cache/
