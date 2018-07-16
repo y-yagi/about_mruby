@@ -65,3 +65,5 @@ ONBUILD ENV GEM_HOME /home/mruby/.gem/
 ONBUILD ENV PATH $GEM_HOME/bin/:$PATH
 ONBUILD ENV LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib/
 ```
+
+https://github.com/hone/mruby-cli-docker/blob/master/Dockerfile
